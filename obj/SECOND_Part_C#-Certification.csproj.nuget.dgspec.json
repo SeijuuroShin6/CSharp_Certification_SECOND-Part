@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/SECOND_Part_C#-Certification.csproj": {}
+  },
+  "projects": {
+    "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/SECOND_Part_C#-Certification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/SECOND_Part_C#-Certification.csproj",
+        "projectName": "SECOND_Part_C#-Certification",
+        "projectPath": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/SECOND_Part_C#-Certification.csproj",
+        "packagesPath": "/Users/sama-seijuuro-jin-sakai-shin/.nuget/packages/",
+        "outputPath": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sama-seijuuro-jin-sakai-shin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
