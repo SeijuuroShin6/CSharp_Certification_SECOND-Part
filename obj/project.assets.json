@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/SECOND_Part_C#-Certification.csproj",
+      "projectUniqueName": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lessons_Exercises/SECOND_Part_C#-Certification.csproj",
       "projectName": "SECOND_Part_C#-Certification",
-      "projectPath": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/SECOND_Part_C#-Certification.csproj",
+      "projectPath": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lessons_Exercises/SECOND_Part_C#-Certification.csproj",
       "packagesPath": "/Users/sama-seijuuro-jin-sakai-shin/.nuget/packages/",
-      "outputPath": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lesson_Exercises/obj/",
+      "outputPath": "/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Lessons_Exercises/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sama-seijuuro-jin-sakai-shin/.nuget/NuGet/NuGet.Config"
